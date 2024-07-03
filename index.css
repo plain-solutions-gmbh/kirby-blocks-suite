@@ -1,0 +1,70 @@
+
+.k-block-field > .k-field-header {
+  border-bottom: 1px solid;
+}
+.k-block-field > .k-tabs {
+  margin-bottom: 0;
+}
+.k-block-field > .k-form {
+  margin-top: var(--spacing-5);
+  margin-bottom: var(--spacing-5);
+}
+.k-block-field .k-tabs-badge {
+  border: none;
+  box-shadow: none;
+  background: none;
+  font-weight: var(--spacing-12);
+  color: var(--color-red-700);
+}
+
+.k-block-container-type-fields.k-block-container:not(:last-of-type) {
+  border-bottom: 0;
+}
+.k-block-type-fields {
+  padding: 0.75rem 0;
+}
+.k-block-type-fields .k-block-type-fields-header .k-icon {
+  cursor: pointer;
+}
+.k-block-type-fields .k-form {
+  background: transparent;
+  padding: var(--spacing-6) var(--spacing-2) var(--spacing-2);
+}
+.k-block-type-fields .k-block-title {
+  padding: 0;
+}
+
+.k-blocks-list > .k-block-container {
+  width: 100%;
+  border: 1px solid var(--color-gray-200);
+}
+.k-blocks-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.bs-alpha {
+  position: absolute;
+  right: 0;
+  padding: 0.7em 0;
+  text-align: right;
+  font-size: 0.8em;
+  color: var(--color-gray-500);
+}
+
+.k-block-title > .k-block-title-image-wrapper {
+  height: 2.8rem;
+  margin-top: -0.75rem;
+  margin-bottom: -0.75rem;
+  margin-left: -0.75rem;
+  margin-right: 0.5rem;
+  border-top-left-radius: var(--rounded-md);
+  border-bottom-left-radius: var(--rounded-md);
+  overflow: hidden;
+}
+.k-block-title > .k-block-title-image-wrapper > .k-frame {
+  height: 100%;
+}
+
+.k-component-form .k-tabs {
+  margin-bottom: var(--spacing-4);
+}
