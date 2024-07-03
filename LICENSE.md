@@ -89,6 +89,6 @@ We are a small operation, and we take data privacy seriously. We only collect th
 
 ## Contact
 
-**Plain Solutions GmbH**<br/> Theaterstrasse 2<br/>3942 Raron<br/>Schwitzerland
+**Plain Solutions GmbH**<br/> Theaterstrasse 2<br/>3942 Raron<br/>Switzerland
 
 [legal@plain-solutions.net](mailto:legal@plain-solutions.net)
