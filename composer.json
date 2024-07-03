@@ -3,7 +3,7 @@
     "description": "This must-have enhancement of Kirby blocks elevates your productivity to the next level.",
     "license": "MIT",
     "type": "kirby-plugin",
-    "version": "1.0.0",
+    "version": "1.0.0-alpha",
     "authors": [{
         "name": "Roman Gsponer",
         "email": "kirby@plain-solutions.net"
