@@ -40,7 +40,7 @@ In this documentation, we will create a page builder together from scratch. You 
 **With Composer**
 
 ```bash
-composer require getplain/kirby-blocks-suite
+composer require plain/blocks-suite:@alpha
 ```
 
 **Before we start...**
